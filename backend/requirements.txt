@@ -3,3 +3,7 @@ numpy
 matplotlib
 scikit-learn
 ipykernel
+fastapi 
+uvicorn 
+joblib 
+xgboost
